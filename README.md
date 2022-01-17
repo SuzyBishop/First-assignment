@@ -1,1 +1,1 @@
-#HTML PATİKA
+# HTML PATİKA
